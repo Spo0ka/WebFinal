@@ -17,7 +17,7 @@
         </div>
         
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/Meteor_500x.webp" style="height: 100%;
+            <img src="/Images/Meteor_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 2">
              <div class="image-text2">
                 <p class="jersey-name mb-0">Meteor</p>
@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/k1NG_500x.webp" style="height: 100%;
+            <img src="/Images/k1NG_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 3">
              <div class="image-text3">
                 <p class="jersey-name mb-0">K1ng</p>
@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/eKo_500x.webp" style="height: 100%;
+            <img src="/Images/eKo_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 4">
              <div class="image-text4">
                 <p class="jersey-name mb-0">Eko</p>
@@ -43,7 +43,7 @@
     </div>
     <div class="row mt-0">
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/Sylvan_500x.webp" style="height: 100%;
+            <img src="/Images/Sylvan_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 5">
              <div class="image-text5">
                 <p class="jersey-name mb-0">Sylvan</p>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/GodDead_500x.webp" style="height: 100%;
+            <img src="/Images/GodDead_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 6">
              <div class="image-text6">
                 <p class="jersey-name mb-0">GodDead</p>
@@ -59,7 +59,7 @@
             </div>
         </div>
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/Chris_500x.webp" style="height: 100%;
+            <img src="/Images/Chris_500x.webp" style="height: 100%;
             width: 100%; " alt="Imagen 7">
              <div class="image-text7">
                 <p class="jersey-name mb-0">Chris</p>
@@ -67,7 +67,7 @@
             </div>
         </div>
         <div class="image-div">
-            <img src="./Imagenes para proyecto p2/bail_500x.webp" style="height: 100%;
+            <img src="/Images/bail_500x.webp" style="height: 100%;
             width: 100%; "  alt="Imagen 8">
              <div class="image-text8">
                 <p class="jersey-name mb-0">Bail</p>

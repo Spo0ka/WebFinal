@@ -48,7 +48,7 @@ Route::get('/TeamsNBA', [TeamsNBAController::class, 'index'])->name('TeamsNBA');
 Route::get('/TeamsPUBG', [TeamsPUBGController::class, 'index'])->name('TeamsPUBG');
 Route::get('/TeamsROCKET', [TeamsROCKETController::class, 'index'])->name('TeamsROCKET');
 Route::get('/TeamsTIGER', [TeamsTIGERController::class, 'index'])->name('TeamsTIGER');
-Route::get('/TeamsVALORANT', [TeamsROCKETController::class, 'index'])->name('TeamsVALORANT');
+Route::get('/TeamsVALORANT', [TeamsVALORANTController::class, 'index'])->name('TeamsVALORANT');
 Route::get('/About', [AboutController::class, 'index'])->name('AboutIndex');
 Route::get('/GenG', [PrincipalController::class, 'index'])->name('InicioIndex');
 

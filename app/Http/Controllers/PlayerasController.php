@@ -25,7 +25,6 @@ class PlayerasController extends Controller
             'price' => 'required|numeric',
             'description' => 'required|string',
             'image' => 'required|url', // Si la imagen es una URL
-            // Puedes agregar más reglas de validación según tus necesidades
         ]);
 
         Jersey::create($request->all());
@@ -52,7 +51,6 @@ class PlayerasController extends Controller
             'price' => 'required|numeric',
             'description' => 'required|string',
             'image' => 'required|url', // Si la imagen es una URL
-            // Puedes agregar más reglas de validación según tus necesidades
         ]);
 
         $jersey = Jersey::findOrFail($id);

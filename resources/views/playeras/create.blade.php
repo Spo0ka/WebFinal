@@ -1,5 +1,3 @@
-<!-- resources/views/playeras/create.blade.php -->
-
 @extends('layouts.app')
 
 @section('container')

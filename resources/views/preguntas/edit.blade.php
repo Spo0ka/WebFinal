@@ -1,5 +1,3 @@
-<!-- resources/views/preguntas/edit.blade.php -->
-
 @extends('layouts.app')
 
 @section('container')

@@ -4,8 +4,7 @@
 <link rel="stylesheet" href="{{ asset('css/styleJersey.css') }}">
 <div class="flex-container container" style="height: auto;">
     <div class="left-div">
-        <div class="small-images">
-          {{-- aqui debian ir las imagens pequeñas pero no me quize meter muchas urls porque de porsi me confundo --}}
+        <div class="small-images">    
         </div>
         <img src="{{ $jersey->image }}" class="mx-4" alt="Jersey Grande">
     </div>
@@ -25,8 +24,6 @@
         <button class="add-to-cart ms-4">Add to Cart</button>
     </div>
 </div>
-
 <footer class="bg-white border-top mt-0 text-light text-center py-4">
-    <!-- Tu código del footer sigue igual -->
 </footer>
 @endsection

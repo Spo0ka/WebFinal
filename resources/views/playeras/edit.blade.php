@@ -1,12 +1,8 @@
-<!-- resources/views/playeras/edit.blade.php -->
-
 @extends('layouts.app')
 
 @section('container')
     <div class="container">
         <h2>Editar Jersey</h2>
-
-        <!-- Tu formulario para editar el jersey aquí -->
         <form action="{{ route('playeras.update', $jersey->id) }}" method="POST">
             @csrf
             @method('PUT')
