@@ -1,0 +1,44 @@
+.icon-image {
+    width: 30px; 
+    height: 30px; 
+  }
+  .image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.welcome-section {
+  background-image: url('./Imagenes para proyecto p2/fondo about geng.png');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 50px; 
+}
+
+
+
+.about-section {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    max-width: 100%;
+}
+
+.video-section {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    max-height: 700px;
+    height: 700px;
+}
+
